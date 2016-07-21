@@ -1,0 +1,1 @@
+Here you can convert different codes between themselves: A2(binary code), A8(octal code), A10(decimal code), A16(hex code).
