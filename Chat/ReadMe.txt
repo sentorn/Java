@@ -1,0 +1,2 @@
+At first run server, then run client. Input your name and server ip address (or "localhost" if you use the same computer), 
+on server window you will see that you have connected. You can run client many times, if server is active. 
